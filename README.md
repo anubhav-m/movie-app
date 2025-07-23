@@ -26,14 +26,20 @@ A simple and responsive movie listing frontend built using **React.js**. The app
   git clone https://github.com/anubhav-m/movie-app.git
   cd movie-app
   ```
+
+2. **Environment variable**
+
+  ```env
+  VITE_API_KEY = your_tmdb_api_key+here
+  ```
   
-2. **Install dependencies**
+3. **Install dependencies**
   
   ```bash
   npm install
   ```
   
-3. **Run the development server**
+4. **Run the development server**
   
   ```bash
   npm run dev
