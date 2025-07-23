@@ -1,11 +1,11 @@
 # 🎬 Movie App
 
-A fully responsive video streaming frontend built with **React.js**, mimicking the layout and functionality of YouTube. This project demonstrates proficiency in **HTML**, **CSS**, **JavaScript**, and **React** features including **Hooks**, **Context**, and **Routing**.
+A simple and responsive movie listing frontend built using **React.js**. The application displays a list of popular movies and includes a search functionality to find movies by title.
 
 ## 🚀 Features
 
 - 📺 Explore trending and popular movies
-- 🔍 Search functionality with real-time filtering
+- 🔍 Search functionality
 - 🧭 Page navigation using **React Router DOM**
 - ⚙️ Dynamic rendering using **React Hooks** (`useState`, `useEffect`, `useContext`)
 - 💡 Clean and responsive UI using **CSS Flexbox/Grid**
