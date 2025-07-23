@@ -27,10 +27,10 @@ A simple and responsive movie listing frontend built using **React.js**. The app
   cd movie-app
   ```
 
-2. **Environment variable**
+2. **Environment variables**
 
   ```env
-  VITE_API_KEY = your_tmdb_api_key+here
+  VITE_API_KEY = your_tmdb_api_key_here
   ```
   
 3. **Install dependencies**
