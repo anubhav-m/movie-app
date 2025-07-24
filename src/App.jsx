@@ -4,6 +4,7 @@ import Favorites from './pages/Favorites.jsx'
 import NavBar from './components/NavBar.jsx'
 import { Routes, Route } from 'react-router-dom'
 
+
 function App() {
     return (
         <div>  
